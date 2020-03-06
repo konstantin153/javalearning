@@ -1,7 +1,7 @@
-package JavaKopfBisFuss;
+package Ratespiel;
 
 public class Spieler { 
-	int zahl = 5; // hier kommt der Tipp rein
+	int zahl = 0; // hier kommt der Tipp rein
 
 public void raten() {
 	zahl = (int) (Math.random() * 10);

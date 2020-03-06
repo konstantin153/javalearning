@@ -1,4 +1,4 @@
-package JavaKopfBisFuss;
+package PhrasOMat;
 
 public class PhrasOMat {
 public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package JavaKopfBisFuss;
+package Ratespiel;
 
 	public class SpielStarter {
 		public static void main (String[] args) {
