@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="JavaKopfBisFuß"/>
+	<classpathentry kind="src" path="Objects"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
